@@ -1,7 +1,7 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-dang1412
-**Name:** Dang
+**Student ID:** 2A202600023
+**Name:** Dang Thanh Tung
 **Date:** 2026-04-15
 
 ---
